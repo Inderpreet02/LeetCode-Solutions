@@ -3,7 +3,7 @@
 ```bash
 #!urs/bin/bash
 
-cd G:/projects/markdown-archive
+cd /d/Dev/LeetCode-Solutions
 
 git add .
 
